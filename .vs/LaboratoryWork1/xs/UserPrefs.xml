@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{56A236E4-1296-4BF4-AD8B-B17B8496DEDA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task3/Program.cs">
+    <Files>
+      <File FileName="Task2/Services/PerformanceService.cs" Line="1" Column="1" />
+      <File FileName="Task3/Program.cs" Line="13" Column="1" />
+      <File FileName="CommonLibrary/Services/ExcelExportService.cs" Line="49" Column="14" />
+      <File FileName="CommonLibrary/Services/PerformanceService.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LaboratoryWork1" expanded="True">
+            <Node name="CommonLibrary" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="Task1" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="Task2" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="Task3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Task2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,9 @@
+/Users/ivan/Documents/XAI/Parallel Calculations/LaboratoryWork1/CommonLibrary/bin/Debug/netstandard2.1/CommonLibrary.deps.json
+/Users/ivan/Documents/XAI/Parallel Calculations/LaboratoryWork1/CommonLibrary/bin/Debug/netstandard2.1/CommonLibrary.dll
+/Users/ivan/Documents/XAI/Parallel Calculations/LaboratoryWork1/CommonLibrary/bin/Debug/netstandard2.1/CommonLibrary.pdb
+/Users/ivan/Documents/XAI/Parallel Calculations/LaboratoryWork1/CommonLibrary/obj/Debug/netstandard2.1/CommonLibrary.AssemblyInfoInputs.cache
+/Users/ivan/Documents/XAI/Parallel Calculations/LaboratoryWork1/CommonLibrary/obj/Debug/netstandard2.1/CommonLibrary.AssemblyInfo.cs
+/Users/ivan/Documents/XAI/Parallel Calculations/LaboratoryWork1/CommonLibrary/obj/Debug/netstandard2.1/CommonLibrary.csproj.CoreCompileInputs.cache
+/Users/ivan/Documents/XAI/Parallel Calculations/LaboratoryWork1/CommonLibrary/obj/Debug/netstandard2.1/CommonLibrary.dll
+/Users/ivan/Documents/XAI/Parallel Calculations/LaboratoryWork1/CommonLibrary/obj/Debug/netstandard2.1/CommonLibrary.pdb
+/Users/ivan/Documents/XAI/Parallel Calculations/LaboratoryWork1/CommonLibrary/obj/Debug/netstandard2.1/CommonLibrary.csprojAssemblyReference.cache
