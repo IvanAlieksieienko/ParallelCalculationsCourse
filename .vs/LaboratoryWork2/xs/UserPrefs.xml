@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{A39BEC79-FB55-4F42-97E2-9EE0AC98C672}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="7" Column="41" />
+      <File FileName="Services/IImageService.cs" />
+      <File FileName="Services/DiskImageService.cs" />
+      <File FileName="Services/ThreadingService.cs" />
+      <File FileName="../PerformanceCommonLibrary/Models/PerformanceInfo.cs" />
+      <File FileName="../PerformanceCommonLibrary/Models/AdditionalInfo.cs" Line="16" Column="3" />
+      <File FileName="../PerformanceCommonLibrary/Services/ExcelExportService.cs" />
+      <File FileName="../PerformanceCommonLibrary/Models/TimeType.cs" />
+      <File FileName="Services/WebImageService.cs" Line="20" Column="4" />
+      <File FileName="../PerformanceCommonLibrary/Services/PerformanceService.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LaboratoryWork2" expanded="True">
+            <Node name="LaboratoryWork2" expanded="True">
+              <Node name="Services" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="PerformanceCommonLibrary" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LaboratoryWork2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>PerformanceCommonLibrary/PerformanceCommonLibrary.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
